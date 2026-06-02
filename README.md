@@ -26,6 +26,9 @@ PORT=8080 bun run gate.ts
 
 服务默认在 `http://localhost:13339` 启动。
 
+在 CC-switch 里配置给 Claude code 使用
+<img width="2339" height="1656" alt="shot-2026-06-02_16 16 43" src="https://github.com/user-attachments/assets/e57d51e1-0795-4e95-b869-4ad8a684f12c" />
+
 ---
 
 ## 客户端配置
